@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "name": "mahmoud adel",
+      "age": 25,
+      "id": "4d36"
+    },
+    {
+      "name": "gamal",
+      "age": 24,
+      "id": "f03a"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "title": "ali",
+      "checked": true
+    }
+  ]
+}
